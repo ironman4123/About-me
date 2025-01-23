@@ -3,12 +3,11 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Valorant
 - 🤔 If you looking for help feel free to ask 
 - 💬 Ask me about anime too
-- 📫 How to reach me: samrattikone277@gmail.com 
-- 😄 Pronouns: Zoro
+- 📫 How to reach me: vaibhavwaje214@gmail.com 
+- 😄 Pronouns: LUFFY
 - ⚡ Fun fact: If you visit zoro2030 repository it's mine
 <br><br>
 
